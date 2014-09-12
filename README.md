@@ -14,3 +14,11 @@ The index is not updated asynchronously, when you index data its applied to the 
 2. About the stored fields and _source document
 That's exactly what elasticsearch does for you when a field is not stored (default) and the _source field is enabled (default too).
 http://stackoverflow.com/questions/17103047/why-do-i-need-storeyes-in-elasticsearch
+
+3. JetSlide Uses Elastic Search as Database
+http://karussell.wordpress.com/2011/07/13/jetslide-uses-elasticsearch-as-database/
+
+Videos
+======================
+1. Distributed Diagram
+http://www.elasticsearch.org/videos/distributed-diagram/
