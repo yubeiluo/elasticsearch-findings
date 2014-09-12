@@ -27,3 +27,8 @@ APIs & Endpoints
 =====================
 1. View the current settings for all indexes
 curl -XGET 'localhost:9200/_settings?pretty=true'
+
+SysAdmins
+=====================
+1. How to create backup of Elastic Search using rsync?
+http://karussell.wordpress.com/2011/07/10/how-to-backup-elasticsearch-with-rsync/
