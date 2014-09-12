@@ -32,3 +32,7 @@ SysAdmins
 =====================
 1. How to create backup of Elastic Search using rsync?
 http://karussell.wordpress.com/2011/07/10/how-to-backup-elasticsearch-with-rsync/
+
+2. How to leverage index aliases when making changes to indexes like configuration changes without any production glitches?
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-aliases.html
+http://paulsabou.com/blog/2012/04/15/the-use-of-aliases-in-elasticsearch/
