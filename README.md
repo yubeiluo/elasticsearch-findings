@@ -22,3 +22,8 @@ Videos
 ======================
 1. Distributed Diagram
 http://www.elasticsearch.org/videos/distributed-diagram/
+
+APIs & Endpoints
+=====================
+1. View the current settings for all indexes
+curl -XGET 'localhost:9200/_settings?pretty=true'
