@@ -18,6 +18,16 @@ http://stackoverflow.com/questions/17103047/why-do-i-need-storeyes-in-elasticsea
 3. JetSlide Uses Elastic Search as Database
 http://karussell.wordpress.com/2011/07/13/jetslide-uses-elasticsearch-as-database/
 
+4. When and why to use routing in ES for indexing/searching?
+http://elasticsearch-users.115913.n3.nabble.com/When-Why-to-use-Routing-for-indexing-searching-td3789570.html
+http://elasticsearch-users.115913.n3.nabble.com/some-ES-stats-at-yfrog-com-td3759891.html
+
+Over-allocation of shards?
+https://groups.google.com/forum/?fromgroups#!searchin/elasticsearch/data$20flow/elasticsearch/49q-_AgQCp8/MRol0t9asEcJ
+
+5. Index alias use cases
+https://twitter.com/otisg/status/160128277497913345
+
 Videos
 ======================
 1. Distributed Diagram
