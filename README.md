@@ -26,6 +26,9 @@ Findings
 - Index alias use cases
   - [I'm loving ElasticSearch index alias feature][8]
 
+- Aggregations
+  - [elasticsearch-aggregations](http://blog.qbox.io/elasticsearch-aggregations)
+
 Videos
 ======================
 - Distributed Diagram
