@@ -28,6 +28,8 @@ Findings
 
 - Aggregations
   - [elasticsearch-aggregations](http://blog.qbox.io/elasticsearch-aggregations)
+- Null Values
+  - [null value mapping in ElasticSearch](http://stackoverflow.com/questions/22796103/null-value-mapping-in-elasticsearch)
 
 Videos
 ======================
