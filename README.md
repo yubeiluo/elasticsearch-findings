@@ -31,6 +31,11 @@ Findings
 - Null Values
   - [null value mapping in ElasticSearch](http://stackoverflow.com/questions/22796103/null-value-mapping-in-elasticsearch)
 
+Geo Spatial Search
+======
+1. [Spatial Search ElasticSearch tutorial](http://www.elasticsearchtutorial.com/spatial-search-tutorial.html)
+2. [Using Elastic Search for geo-spatial search](http://www.jillesvangurp.com/2013/03/20/using-elastic-search-for-geo-spatial-search/)
+
 Videos
 ======================
 - Distributed Diagram
