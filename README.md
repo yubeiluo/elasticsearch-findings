@@ -55,6 +55,7 @@ SysAdmins
   - [the-use-of-aliases-in-elasticsearch][12]
 - How to provision ES in a cost effective manner?
   - [qbox.io][13]
+- [is-there-a-smarter-way-to-reindex-elasticsearch](http://stackoverflow.com/questions/13851044/is-there-a-smarter-way-to-reindex-elasticsearch)
 
 [1]: http://elasticsearch-users.115913.n3.nabble.com/NRT-search-with-elastic-search-td3244655.html
 [2]: https://github.com/elasticsearch/elasticsearch/issues/1060
