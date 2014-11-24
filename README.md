@@ -56,9 +56,10 @@ SysAdmins
 - How to provision ES in a cost effective manner?
   - [qbox.io][13]
 - [is-there-a-smarter-way-to-reindex-elasticsearch](http://stackoverflow.com/questions/13851044/is-there-a-smarter-way-to-reindex-elasticsearch)
-
 - [re-index](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/reindex.html)
 - [changing mapping with zero downtime](http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/)
+- [elasticsearch-curls](http://davektech.wordpress.com/2014/10/17/elasticsearch-curls-2/)
+- [A full feature elasticsearch reindex tool](https://github.com/garbin/elasticsearch-reindex)
 [1]: http://elasticsearch-users.115913.n3.nabble.com/NRT-search-with-elastic-search-td3244655.html
 [2]: https://github.com/elasticsearch/elasticsearch/issues/1060
 [3]: http://stackoverflow.com/questions/17103047/why-do-i-need-storeyes-in-elasticsearch
