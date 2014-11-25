@@ -60,6 +60,7 @@ SysAdmins
 - [changing mapping with zero downtime](http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/)
 - [elasticsearch-curls](http://davektech.wordpress.com/2014/10/17/elasticsearch-curls-2/)
 - [A full feature elasticsearch reindex tool](https://github.com/garbin/elasticsearch-reindex)
+- [Reindexing Content in Elasticsearch](http://blog.florian-hopf.de/2013/11/reindexing-content-in-elasticsearch.html)
 [1]: http://elasticsearch-users.115913.n3.nabble.com/NRT-search-with-elastic-search-td3244655.html
 [2]: https://github.com/elasticsearch/elasticsearch/issues/1060
 [3]: http://stackoverflow.com/questions/17103047/why-do-i-need-storeyes-in-elasticsearch
