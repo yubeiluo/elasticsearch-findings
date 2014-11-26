@@ -74,3 +74,9 @@ SysAdmins
 [11]: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-aliases.html
 [12]: http://paulsabou.com/blog/2012/04/15/the-use-of-aliases-in-elasticsearch/
 [13]: http://qbox.io/
+
+How to scale and achieve HA?
+============================
+1. [How we optimized 100 sec elasticsearch queries to be under a sub second](https://abhishek376.wordpress.com/2014/11/24/how-we-optimized-100-sec-elasticsearch-queries-to-be-under-a-sub-second/)
+2. [Elasticsearch in Production](https://www.found.no/foundation/elasticsearch-in-production/)
+3. [Thoughts on Launching and Scaling Elasticsearch](http://blog.qbox.io/launching-and-scaling-elasticsearch)
