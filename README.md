@@ -30,6 +30,11 @@ Findings
   - [elasticsearch-aggregations](http://blog.qbox.io/elasticsearch-aggregations)
 - Null Values
   - [null value mapping in ElasticSearch](http://stackoverflow.com/questions/22796103/null-value-mapping-in-elasticsearch)
+- Scroll
+  - [Scroll Questions](http://elasticsearch-users.115913.n3.nabble.com/Scroll-Questions-td4057887.html)
+  - [scroll aggregations](http://elasticsearch-users.115913.n3.nabble.com/scroll-aggregations-td4056708.html)
+  - [disk-based field data a.k.a. doc values](http://www.elasticsearch.org/blog/disk-based-field-data-a-k-a-doc-values/)
+
 
 Geo Spatial Search
 ======
