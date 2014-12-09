@@ -46,6 +46,7 @@ Videos
 - Distributed Diagram
   - [distributed-diagram][9]
 - [Road to a Distributed Search Engine](http://www.elasticsearch.cn/videos/2011/08/09/road-to-a-distributed-searchengine-berlinbuzzwords.html)
+- [elasticsearch ajug presentation](http://www.elastichq.org/blog/elasticsearch-ajug-presentation/)
 
 APIs & Endpoints
 =====================
