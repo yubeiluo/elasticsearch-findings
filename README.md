@@ -97,3 +97,4 @@ Percolators
 =============
 1. [redesigned percolator](http://www.elasticsearch.org/blog/percolator-redesign-blog-post/)
 2. [introduction to percolator](http://blog.qbox.io/elasticsesarch-percolator)
+3. [Percolator for alerts between specific time intervals](http://elasticsearch-users.115913.n3.nabble.com/Percolator-for-alerts-between-specific-time-intervals-td3692361.html)
