@@ -91,3 +91,9 @@ How to scale and achieve HA?
 Plugins
 =============
 1. [elasticsearch-head](http://mobz.github.io/elasticsearch-head/)
+2. [elasticseach-hq]()
+
+Percolators
+=============
+1. [redesigned percolator](http://www.elasticsearch.org/blog/percolator-redesign-blog-post/)
+2. [introduction to percolator](http://blog.qbox.io/elasticsesarch-percolator)
