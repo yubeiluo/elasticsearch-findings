@@ -86,3 +86,7 @@ How to scale and achieve HA?
 1. [How we optimized 100 sec elasticsearch queries to be under a sub second](https://abhishek376.wordpress.com/2014/11/24/how-we-optimized-100-sec-elasticsearch-queries-to-be-under-a-sub-second/)
 2. [Elasticsearch in Production](https://www.found.no/foundation/elasticsearch-in-production/)
 3. [Thoughts on Launching and Scaling Elasticsearch](http://blog.qbox.io/launching-and-scaling-elasticsearch)
+
+Plugins
+=============
+1. [elasticsearch-head](http://mobz.github.io/elasticsearch-head/)
